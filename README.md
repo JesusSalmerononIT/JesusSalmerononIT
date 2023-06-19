@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **Australia is wider than the Moon.**
 
-(img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/AngelicInfamousGalapagosalbatross-size_restricted.gif")
+(img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/AngelicInfamousGalapagosalbatross-size_restricted.gif...")
 
 
 <h3 align="left">Connect with me:</h3>
