@@ -9,12 +9,12 @@
 
 - 📫 How to reach me **jesussalmerongr@gmail.com**
 
-- 📄 My experience... [I have worked for a while as a data analyst, but I'm looking to get back to my more technical profile and work as a developer or DevOps. Also as a hobby I am passionate about cybersecurity.](I have worked for a while as a data analyst, but I'm looking to get back to my more technical profile and work as a developer or DevOps. Also as a hobby I am passionate about cybersecurity.)
+- 📄 My experience... I have worked for a while as a data analyst, but I'm looking to get back to my more technical profile and work as a developer or DevOps. Also as a hobby I am passionate about cybersecurity.](I have worked for a while as a data analyst, but I'm looking to get back to my more technical profile and work as a developer or DevOps. Also as a hobby I am passionate about cybersecurity.
 
 - ⚡ Fun fact **Australia is wider than the Moon.**
 
-(img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/AngelicInfamousGalapagosalbatross-size_restricted.gif...")
-
+[(img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/AngelicInfamousGalapagosalbatross-size_restricted.gif...")
+](https://thumbs.gfycat.com/AngelicInfamousGalapagosalbatross-size_restricted.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
