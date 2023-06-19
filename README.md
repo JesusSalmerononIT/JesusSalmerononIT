@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jesús Salmerón</h1>
 <h3 align="center">A passionate developer and DevOps ...junior... Learning new technologies always!!</h3>
 
+![alt-text]([link](https://thumbs.gfycat.com/AngelicInfamousGalapagosalbatross-size_restricted.gif))
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesussalmerononit&label=Profile%20views&color=0e75b6&style=flat" alt="jesussalmerononit" /> </p>
 
 - 🌱 I’m currently learning **Azure and Jenkins.**
