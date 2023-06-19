@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jesús Salmerón</h1>
 <h3 align="center">A passionate developer and DevOps ...junior... Learning new technologies always!!</h3>
 
-![alt-text]([link](https://thumbs.gfycat.com/AngelicInfamousGalapagosalbatross-size_restricted.gif))
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesussalmerononit&label=Profile%20views&color=0e75b6&style=flat" alt="jesussalmerononit" /> </p>
 
 - 🌱 I’m currently learning **Azure and Jenkins.**
@@ -13,6 +14,11 @@
 - 📄 My experience... I have worked for a while as a data analyst, but I'm looking to get back to my more technical profile and work as a developer or DevOps. Also as a hobby I am passionate about cybersecurity.](I have worked for a while as a data analyst, but I'm looking to get back to my more technical profile and work as a developer or DevOps. Also as a hobby I am passionate about cybersecurity.
 
 - ⚡ Fun fact **Australia is wider than the Moon.**
+
+
+
+![myfile](https://media.tenor.com/KbXIBwtIzoYAAAAC/piano-bruce-almighty.gif)
+
 
 
 <h3 align="left">Connect with me:</h3>
