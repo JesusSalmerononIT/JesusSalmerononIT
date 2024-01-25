@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jesús Salmerón.</h1>
+<h1 align="center">Hi 👋, I'm Jesús </h1>
 <h3 align="center">DBA Aspirant Committed to Cybersecurity</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesussalmerononit&label=Profile%20views&color=0e75b6&style=flat" alt="jesussalmerononit" /> </p>
@@ -11,7 +11,6 @@
 
 - 💬 Ask me about **SQL Query Optimization**
 
-- 📫 How to reach me **jesussalmerongr@gmail.com**
 
 - ⚡ Fun fact **Did you know that there are more mobile devices in the world than people? Currently, the number of active mobile devices exceeds 8 billion, while the global population is around 7.8 billion. This means there are more active mobile phones than people on the planet. Technology has truly transformed our way of life!**
 
